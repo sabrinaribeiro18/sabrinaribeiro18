@@ -1,8 +1,10 @@
-## Hi there 👋
-
-<!--
-**sabrinaribeiro18/sabrinaribeiro18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+BOAS VINDAS AO MEU PERFIL
+meu nome:Sabrina Ribeiro
+-Estou estudando na Alura
+-Estou me desenvolvendo na linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+VOCE PODE ENTRAR EM CONTATO COMIGO
+sabrina.ribeiro.andrade@escola.pr.gov.br
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
